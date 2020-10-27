@@ -1,0 +1,2 @@
+# CIGS-Based-Multi-Junction-Solar-Cell-Enhancing-efficiency-by-inserting-SnS-Layer
+To enhance the efficiency of earlier presented, CIGS based 3-layer MJ solar cell by inserting the novel back surface field (SnS) layer. Also, to analyze the effects of changing the width parameter for absorber, buffer and back surface field layer and to implement ZnS as buffer layer and establishing it as substitute for CdS. 
